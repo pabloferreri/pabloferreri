@@ -1,4 +1,4 @@
-### Hi there  👋  I´m Pablo Ferreri. Developer in process. i would like to improve my software developer skills. 
+### Hi there  👋  I´m Pablo Ferreri. Developer in process. I would like to improve my software developer skills. 
 
 Here are some ideas to get you started:
 
